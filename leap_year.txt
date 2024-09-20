@@ -1,0 +1,26 @@
+year 2000 is a leap year.
+year 2004 is a leap year.
+year 2008 is a leap year.
+year 2012 is a leap year.
+year 2016 is a leap year.
+year 2020 is a leap year.
+year 2024 is a leap year.
+year 2028 is a leap year.
+year 2032 is a leap year.
+year 2036 is a leap year.
+year 2040 is a leap year.
+year 2044 is a leap year.
+year 2048 is a leap year.
+year 2052 is a leap year.
+year 2056 is a leap year.
+year 2060 is a leap year.
+year 2064 is a leap year.
+year 2068 is a leap year.
+year 2072 is a leap year.
+year 2076 is a leap year.
+year 2080 is a leap year.
+year 2084 is a leap year.
+year 2088 is a leap year.
+year 2092 is a leap year.
+year 2096 is a leap year.
+there are 25 leap years 

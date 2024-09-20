@@ -1,0 +1,19 @@
+age= 0,year_cost=15900.00,total=15900.00
+age= 1,year_cost=15900.00,total=31800.00
+age= 2,year_cost=15900.00,total=47700.00
+age= 3,year_cost=15900.00,total=63600.00
+age= 4,year_cost=15900.00,total=79500.00
+age= 5,year_cost=15900.00,total=95400.00
+age= 6,year_cost=15900.00,total=111300.00
+age= 7,year_cost=15900.00,total=127200.00
+age= 8,year_cost=15900.00,total=143100.00
+age= 9,year_cost=15900.00,total=159000.00
+age=10,year_cost=15900.00,total=174900.00
+age=11,year_cost=15900.00,total=190800.00
+age=12,year_cost=15900.00,total=206700.00
+age=13,year_cost=15900.00,total=222600.00
+age=14,year_cost=15900.00,total=238500.00
+age=15,year_cost=15900.00,total=254400.00
+age=16,year_cost=15900.00,total=270300.00
+age=17,year_cost=15900.00,total=286200.00
+age=18,year_cost=15900.00,total=302100.00
